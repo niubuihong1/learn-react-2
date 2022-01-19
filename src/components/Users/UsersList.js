@@ -15,6 +15,7 @@ const UsersList = (props) => {
         ))}
       </ul>
     </Card>
+    // TODO: now there is initially an empty list with white background (a white box that is an empty card)
   );
 };
 
